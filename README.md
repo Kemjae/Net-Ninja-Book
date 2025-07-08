@@ -22,3 +22,25 @@ net-ninja Book/
 ├── index.html
 ├── styles.css
 └── README.md
+
+
+🧠 What I Learned
+	•	Creating responsive layouts using Bootstrap’s grid
+	•	Styling with both Bootstrap classes and custom CSS
+	•	Organizing files for clean development
+	•	Improving page performance using semantic HTML
+
+ 🚀 Live Demo
+
+👉 https://kemjae.github.io/Net-Ninja-Book/
+
+
+📞 Contact Me
+
+If you like this project or want to collaborate:
+
+•	Tik tok : @kem_jae
+•	Instagram: @kem_jae_
+•	Twitter(X): @kemjaey
+•	Email: lilkemc567@gmail.com
+
